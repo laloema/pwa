@@ -18,18 +18,7 @@ const APP_SHELL=[
     'img/avatars/thor.jpg',
     'img/avatars/wolverine.jpg',
     'js/app.js',
-    'js/sw-utils.js',
-    'https://i.pinimg.com/originals/4f/50/38/4f503844d9a44b0350c25eeefae028d3.jpg',
-    'https://www.xtrafondos.com/wallpapers/fortnite-battle-bus-3760.jpg',
-    'https://fondosmil.com/fondo/17027.jpg',
-    'https://coatepec.gob.mx/wp-content/uploads/2019/09/4K-Moving-Stars-Live-Wallpaper-1.jpg',
-    'https://www.setaswall.com/wp-content/uploads/2017/03/Artistic-4K-Wallpaper-3840x2160.jpg',
-    'https://pbs.twimg.com/media/DxFijDDWoAACWx8.jpg',
-    'https://i.redd.it/6ifcneixjdk21.jpg',
-    'https://cdn.wccftech.com/wp-content/uploads/2020/02/download-windows-10-wallpaper-free-2060x1159.jpg',
-    'https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQtSPlSGmUo8Ewlh6yEUJyK0u9Me4jIt6lYJQ&usqp=CAU',
-    'https://assets.hongkiat.com/uploads/beautiful-minimalist-desktop-wallpapers/4k/original/01.jpg',
-    'https://fondosmil.com/fondo/17021.jpg'
+    'js/sw-utils.js'
 
 ];
 
